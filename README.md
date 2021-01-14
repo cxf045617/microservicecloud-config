@@ -1,0 +1,2 @@
+# microservicecloud-config
+springCloudConfig分布式配置中心仓库
